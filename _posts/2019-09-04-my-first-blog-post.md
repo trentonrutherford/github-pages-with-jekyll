@@ -1,2 +1,4 @@
-My first blog post. 
-Just making this page so idk what to put 
+---
+title: "Online Resume"
+date: 2019-09-03
+---
